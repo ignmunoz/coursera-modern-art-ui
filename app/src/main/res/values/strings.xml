@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="action_settings">More Information</string>
+    <string name="dialogText1">Hello! It seems that you like Modern Art.</string>
+    <string name="dialogText2">If you want, you can learn more about this topic by visiting the Museum of the Modern Art (MOMA) website.</string>
+    <color name="gray">#ffafafaf</color>
+    <color name="blue">#5363ff</color>
+    <color name="red">#cad41813</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#ffffe86f</color>
+    <color name="green">#00ad7c</color>
+</resources>
